@@ -1,0 +1,67 @@
+#nav{
+    background-color: blueviolet;
+    box-shadow:10px 10px 5px black;
+    
+}
+.Phy{
+    background-color: aqua;
+    border: 10px solid burlywood ;
+    box-shadow:10px 10px 5px black;
+    height: 400px;
+    width: 300px;
+}
+.Phy img{
+    height: 200px;
+    width: 150px;
+}
+
+.Ban{
+    background-color:cadetblue;
+    border: 10px solid firebrick ;
+    box-shadow:10px 10px 5px black;
+    height: 400px;
+    width: 300px;
+}
+.Ban img{
+    height: 200px;
+    width: 150px;
+}
+
+.Math{
+    background-color:fuchsia;
+    border: 10px solid hotpink ;
+    box-shadow:10px 10px 5px black;
+    height: 400px;
+    width: 300px;
+}
+.Math img{
+    height: 200px;
+    width: 150px;
+}
+
+
+.Eng{
+    background-color:rosybrown;
+    border: 10px solid darkgrey ;
+    box-shadow:10px 10px 5px black;
+    height: 400px;
+    width: 300px;
+}
+.Eng img{
+    height: 200px;
+    width: 150px;
+}
+
+.Bio{
+    background-color:yellowgreen;
+    border: 10px solid tomato ;
+    box-shadow:10px 10px 5px black;
+    height: 400px;
+    width: 300px;
+}
+.Bio img{
+    height: 200px;
+    width: 150px;
+}
+
+
